@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "237596332632",
+    "project_id": "test-8ec93",
+    "storage_bucket": "test-8ec93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237596332632:android:a73340fb1980c8bf4b702d",
+        "android_client_info": {
+          "package_name": "com.sanketscode.phone_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237596332632-62o0one968p6hipklfqkl967dtr3c19g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanketscode.phone_auth",
+            "certificate_hash": "67810b55a63b393b5c9022de6437d7e8724e0e8b"
+          }
+        },
+        {
+          "client_id": "237596332632-c9bj33g0ghn6v82kbsb5ak73r3cgjjuq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sanketscode.phone_auth",
+            "certificate_hash": "88a96cb250c1b7e6f8153c9fd4c2a3a6496ce48b"
+          }
+        },
+        {
+          "client_id": "237596332632-i2218u9tlh2kq6jeiir3pa2r77udmgna.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9yb4DqMOLXR6RmJB_paqGqBsFPxVw4uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237596332632-i2218u9tlh2kq6jeiir3pa2r77udmgna.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
